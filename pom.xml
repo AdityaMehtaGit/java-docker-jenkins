@@ -15,7 +15,7 @@
     <description>Spring Boot with PostgreSQL</description>
 
     <properties>
-        <java.version>13</java.version>
+        <java.version>8</java.version>
         <org.testcontainers.version>1.12.5</org.testcontainers.version>
         <io.rest-assured.version>4.3.0</io.rest-assured.version>
     </properties>
