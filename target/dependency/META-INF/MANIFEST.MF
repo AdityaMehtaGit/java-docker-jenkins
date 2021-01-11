@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.4.0
+Build-Jdk-Spec: 13
+Implementation-Title: spring-boot-tc
+Implementation-Version: 1.0.0
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: pl.codeleak.samples.springboot.tc.SpringBootTestcontainersA
+ pplication
+Spring-Boot-Version: 2.2.5.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
